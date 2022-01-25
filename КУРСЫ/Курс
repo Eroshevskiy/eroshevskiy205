@@ -1,14 +1,1 @@
 https://live.skillbox.ru/webinars/code/znakomimsya-s-yazykami-na-praktike161221/
-
- Виды Веб-приложений: Лэндинги, Интернет-магазины, Порталы, Соц. Сети, Онлайн-сервисы, LMS- Системы, CMS-системы, CRM-системы
-Веб приложения состоят из Frontend VS Backend:
-
-Frontend- на клиенте
-•	Вёрстка (HTML)
-•	Стили (CSS)
-•	Интерактивность (JavaScript)
-
-Backend- на сервере
-•	Серверный код (Java, Python)
-•	Работы с базами данных (SQL)
-
