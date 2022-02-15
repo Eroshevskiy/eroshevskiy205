@@ -39,7 +39,7 @@
     }
 [image](https://user-images.githubusercontent.com/97594146/154117138-12bd9dd3-9a40-43bf-86ea-dd9f65b80144.png)
 
-## Пример №2
+## Пример №2 
 
 <br/>Замечание i= i+1 тоже самое,что i++
 
